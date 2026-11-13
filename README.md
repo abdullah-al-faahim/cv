@@ -8,7 +8,7 @@ Tongi, Gazipur, Bangladesh
 <a href="https://github.com/abdullah-al-faahim/cv/releases/latest/download/Abdullah.Al.Fahim_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-6B4AFF?style=for-the-badge" alt="Download CV (PDF)"></a>
 <a href="https://abdullah-al-faahim.github.io/cv/Abdullah%20Al%20Fahim_CV.pdf"><img src="https://img.shields.io/badge/Preview-in%20browser-1E066F?style=for-the-badge" alt="Preview CV in the browser"></a>
 
-<sub>Latest version: <b>V2026.11.012</b> · 4 pages · ATS-friendly</sub>
+<sub>Latest version: <b>V2026.11.015</b> · 4 pages · ATS-friendly</sub>
 
 <br><br>
 
